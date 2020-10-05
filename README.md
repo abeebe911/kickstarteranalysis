@@ -11,10 +11,14 @@ In this challenge, we used a worksheet full of fundraiser information to help Lo
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-I began by setting up a pivot table that broke down theater campaigns by when they began and whether the time of year had an impact on whether these campaigns were canceled, failed, or successful. Once this table was created, I used the information to create a line graph to visualize the information generated. This graph can be viewed under the file "Theater_Outcomes_vs_Launch." 
+I began by setting up a pivot table that broke down theater campaigns by when they began and whether the time of year had an impact on whether these campaigns were canceled, failed, or successful. Once this table was created, I used the information to create a line graph to visualize the information generated. 
+
+![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-I also used the COUNTIFS formula to create an informational table that shows what percentage of similar campaigns were successful based on the goals of the fundraiser. Once that table was created, I was able to convert that into a line graph that can be found under "Outcomes_vs_Goals". (abeebe911/kickstarteranalysis/Outcomes_vs_Goals.png)
+I also used the COUNTIFS formula to create an informational table that shows what percentage of similar campaigns were successful based on the goals of the fundraiser. Once that table was created, I was able to convert that into a line graph that can be viewed below.
+
+![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Initially, I had a problem with the COUNTIFS formula, but once I did a little more research on the subject and broke down each part of the formula, it became very easy. Practice makes perfect.
