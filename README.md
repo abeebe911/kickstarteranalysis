@@ -15,6 +15,7 @@ I began by setting up a pivot table that broke down theater campaigns by when th
 
 ### Analysis of Outcomes Based on Goals
 I also used the COUNTIFS formula to create an informational table that shows what percentage of similar campaigns were successful based on the goals of the fundraiser. Once that table was created, I was able to convert that into a line graph that can be found under "Outcomes_vs_Goals". 
+![Outcomes_vs_Goals.png]
 
 ### Challenges and Difficulties Encountered
 Initially, I had a problem with the COUNTIFS formula, but once I did a little more research on the subject and broke down each part of the formula, it became very easy. Practice makes perfect.
