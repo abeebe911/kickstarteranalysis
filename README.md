@@ -21,14 +21,14 @@ Initially, I had a problem with the COUNTIFS formula, but once I did a little mo
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+# What are two conclusions you can draw about the Outcomes based on Launch Date?
 Based on the information and visualization, we can conclude that the best time to start a fundraising campaign would be in May or June. The number of successful campaigns are much higher during these months. We can also conclude that the worst time would be to launch your campaign in December.
 
-- What can you conclude about the Outcomes based on Goals?
+#  What can you conclude about the Outcomes based on Goals?
 Based on the information and visualization present, we can conclude that an appropriate fundraising goal to set would be in the 20,000 to 30,000 range. Based on the data, these are the most successful ranges if she wants to raise enough money for her play.
 
-- What are some limitations of this dataset?
+# What are some limitations of this dataset?
 One of the limitations is that we don't know the reasoning why certain times of the year are better than others. We can make assumptions, but there is no actual data to prove those assumptions.
 
-- What are some other possible tables and/or graphs that we could create?
+# What are some other possible tables and/or graphs that we could create?
 We could make tables/graphs showing us what the average donation was for each campaign in each category. This would give us an idea of how successful play/theater campaigns are compared to campaigns in other industries. 
